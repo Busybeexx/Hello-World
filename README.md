@@ -1,2 +1,2 @@
 # Hello-World
-I am Daniel, an aspiring Data Scientist.
+I am Daniel, I'm an aspiring Data Scientist studying at Stack.
